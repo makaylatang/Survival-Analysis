@@ -1,7 +1,8 @@
 # Survival-Analysis
 #### UW BIOST 537/EPI 537: Survival Data Analysis In Epidemiology (Winter 2023)
-### Final Project 
 instructor: Jon Wakefield
+
+#### Final Project
 
 ## Background
 
