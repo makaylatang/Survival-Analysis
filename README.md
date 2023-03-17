@@ -20,7 +20,7 @@ The objective of this study is to investigate disease-free survival in patients 
 
 The dataset includes information on 137 patients who underwent allogeneic BMTs as treatment for acute leukemia. The variables in the dataset include patient identification, time variables (in days) until death or the end of study, wait time until transplant, onset of aGVHD, and recovery to normal platelet levels, as well as indicator variables of death, relapse, disease-free survival, development of aGVHD, recovery to normal platelet level, and prophylactic use of methotrexate. The dataset also includes disease subtype by morphologic FAB classification, disease classification (including ALL, and high- or low-risk AML), patient age, sex, and CMV status, donor age, sex, and CMV status, and recruitment center. The dataset provides information that can be used to explore factors associated with patient prognosis following BMT. 
 
-## Questions
+## Scientific Questions
 
 1. Provide an estimate of disease-free survival time for patients enrolled in this study. What are the main characteristics of this summary?
 
